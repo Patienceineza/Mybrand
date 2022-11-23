@@ -1,2 +1,2 @@
 # Mybrand
-New product  website called my bland
+readme file for My brand repo
